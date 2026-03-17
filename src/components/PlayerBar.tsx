@@ -59,14 +59,9 @@ export function PlayerBar() {
           height={0}
           config={{
             youtube: {
-              playerVars: {
-                autoplay: 1,
-                controls: 0,
-                disablekb: 1,
-                modestbranding: 1,
-              },
+              disablekb: 1,
             },
-          }}
+          } as any}
         />
       </div>
 
