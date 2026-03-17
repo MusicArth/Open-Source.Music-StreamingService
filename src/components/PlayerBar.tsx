@@ -1,5 +1,5 @@
 import { useRef, useCallback } from "react";
-import ReactPlayer from "react-player/youtube";
+import ReactPlayer from "react-player";
 import {
   Play, Pause, SkipBack, SkipForward, Volume2, VolumeX,
   Shuffle, Repeat, Repeat1, Heart
