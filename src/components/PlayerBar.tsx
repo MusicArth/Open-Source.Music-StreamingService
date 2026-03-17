@@ -14,7 +14,7 @@ function formatTime(seconds: number) {
 }
 
 export function PlayerBar() {
-  const playerRef = useRef<ReactPlayer>(null);
+  const playerRef = useRef<any>(null);
   const {
     currentTrack, isPlaying, volume, progress, duration,
     shuffle, repeat, library,
