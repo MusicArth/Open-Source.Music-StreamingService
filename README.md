@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+# Open-Source Vibe Coded Spotify-clone.
 
-TODO: Document your project here
+Works but not perfectly. 
+Has a very small song Library.
