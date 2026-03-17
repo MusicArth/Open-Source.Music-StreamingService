@@ -12,4 +12,4 @@ Set build command: npm run build, publish dir: dist .
 
 
 # Notice : The code for this project is AI Generated.
-The songs have been taken from Youtube / Youtube Music legally and are basically just embeded Youtube videos. React-player was used.
+The songs have been taken from Youtube / Youtube Music legally and are basically just embedded Youtube videos. React-player was used.
