@@ -2,8 +2,8 @@
 
 Visit https://26music.netlify.app/ to check out the working website.
 
-Folow these steps to host this through Netlify once you have all the files in your GitHub Repository.: Connect your GitHub repo at netlify.com
+Folow these steps to host this through Netlify once you have all the files in your GitHub Repository.: 
+Connect your GitHub repo at netlify.com
 Set build command: npm run build, publish dir: dist .
 
-Has a very small song Library.
-The code for this project is AI Generated.
+Notice : The code for this project is AI Generated.
