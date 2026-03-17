@@ -1,5 +1,5 @@
 import { useRef, useCallback } from "react";
-import ReactPlayer from "react-player";
+import ReactPlayer from "react-player/lazy";
 import {
   Play, Pause, SkipBack, SkipForward, Volume2, VolumeX,
   Shuffle, Repeat, Repeat1, Heart
